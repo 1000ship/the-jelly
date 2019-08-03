@@ -1,2 +1,5 @@
-# the-jelly
-just simple game, made in 2013
+# The Jelly Game
+> just simple game, made in 2013
+
+- AS3.0 / AIR
+- for Android
